@@ -1,0 +1,56 @@
+.divBox{
+    width: 700px;
+    height: 300px;
+    
+    margin: auto;
+}
+.image{
+    display:block;
+    width: 300px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.SearchBar
+{
+    width: 700px;
+    height: 75px;
+    display: block;
+    background-color: #EEEEEE;
+}
+
+.buttons{
+    width: 200;
+    display: inline-block;
+    
+    
+    
+}
+.specialSearches{
+    width: auto;
+    height: auto;
+    display: inline-block;
+    padding-right: 20px;
+    padding-top: 42px;
+    background-color: #7EE5DA;
+    
+    
+}
+.help{
+    width: auto;
+    height: auto;
+    display: inline-block;
+    background-color:#70CCC2;
+    padding-right: 15px;
+    padding-top: 8px;
+}
+.email{
+    width: 177px;
+    height: auto;
+    display: inline-block;
+    background-color:#70CCC2;
+    margin-top: 5px;
+    padding-right: 195px;
+    padding-top: 36px;
+    padding-bottom: 14px;
+}
